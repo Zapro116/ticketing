@@ -1,0 +1,19 @@
+{
+	"name": "client",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"dev": "next"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"axios": "^1.6.8",
+		"bootstrap": "4.4.1",
+		"next": "^13.5.6",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	}
+}

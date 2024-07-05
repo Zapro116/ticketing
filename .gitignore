@@ -1,0 +1,12 @@
+.vscode
+.vscode/*
+
+common
+common/*
+
+
+**/node_modules
+**/node_modules/**
+
+client/.next
+client/.next/**
