@@ -1,3 +1,7 @@
+
+
+## These are some personal notes taken while development process !!! Please do not refer to it as readme for this project yet. Will update this soon to be in proper format.
+ 
 | cd auth
 
 | docker build -t zapro116/micro-auth .
